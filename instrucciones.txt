@@ -1,0 +1,7 @@
+Para poder ejecutar este proyecto se necesita:
+1.- Ejectuar el SQL en una BD mysql 
+2.-Cambiar los parametros de conexion de la BD que se encuentran en config/application-mysql
+3.- Run
+
+
+el punto dos no se realizo ya que no he realizado nada con JAX-RS en pocas palabras lo desconozco
